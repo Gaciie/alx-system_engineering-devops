@@ -1,2 +1,3 @@
 #!/bin/bash
-mktemp -d -t 
+mktemp -d -t ci-xxxxx
+my_first_directory
